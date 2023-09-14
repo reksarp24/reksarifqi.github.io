@@ -1,10 +1,13 @@
-.jumbotron{
-    padding-top: 5rem;
-    background-color: #DDDDDD;
+.jumbotron {
+  padding-top: 5rem;
+  background-color: #dddddd;
 }
-section{
-    padding-top: 5rem;
+section {
+  padding-top: 5rem;
 }
-#gallery{
-    background-color: #f3f4f5;
+#gallery {
+  background-color: #f3f4f5;
+}
+footer a {
+  color: #4c4b4b;
 }
